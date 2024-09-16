@@ -39,7 +39,8 @@ The dataset files are hosted on OneDrive and are accessible to users with a Univ
    - The `Brain Tumor Dataset(Clahe).zip` contains the dataset after applying CLAHE.
 
 4. **Contact:**
-   - If you encounter any issues accessing the files or have questions about the dataset, please contact [Md Shahriya Islam] at [Your Email Address] or reach out to the IT support team at the University of South Wales.
+   - If you encounter any issues accessing the files or have questions about the dataset, please contact [Md Shahriya Islam] at [30106744@students.southwales.ac.uk
+] or reach out to the IT support team at the University of South Wales.
 
 ## Notes
 
